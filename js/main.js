@@ -1,7 +1,7 @@
 AOS.init({
  	duration: 800,
  	easing: 'ease',
- 	once: true,
+ 	oncoe: true,
  	offset: -100
 });
 
@@ -369,7 +369,6 @@ var counter = function() {
 	} , { offset: '95%' } );
 
 };
-
 
 var mobileToggleClick = function() {
 	$('.js-menu-toggle').click(function(e) {
